@@ -44,9 +44,9 @@ I'm a **3rd-year Computer Science Engineering student** (graduating in 2027) wit
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmavi-X&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmavi-X&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
