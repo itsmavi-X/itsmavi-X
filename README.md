@@ -84,6 +84,6 @@ I'd love to collaborate on projects, discuss ideas, or just chat about tech!
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=itsmavi-X&color=blueviolet" alt="Profile views" />
 
 </div>
